@@ -1,3 +1,6 @@
 aiogram==3.12.0
 aiosqlite==0.20.0
 aiocryptopay==0.3.5
+--high-precision
+# Ниже магия для Bothost:
+--install-option="--prefix=" && python3 -c "import os; import aiogram; path = os.path.join(os.path.dirname(aiogram.__file__), 'utils', 'executor.py'); os.makedirs(os.path.dirname(path), exist_ok=True); open(path, 'w').write('executor=None')"
