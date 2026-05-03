@@ -11,9 +11,9 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiocryptopay import AioCryptoPay, Networks
 
 # --- КОНФИГУРАЦИЯ ---
-API_TOKEN = 'ВАШ_ТЕЛЕГРАМ_ТОКЕН'
-CRYPTO_TOKEN = 'ВАШ_КРИПТОБОТ_ТОКЕН'
-ADMIN_ID = 0  # ВАШ ID (ЧИСЛОМ)
+API_TOKEN = '8211130215:AAE5x5iIkcKcimpgzTCjRjINVbHTMtU7cUU'
+CRYPTO_TOKEN = '554383:AAidALKSoxM9FPQcueaIqpfRxmt1gxp3eTC'
+ADMIN_ID = 8570921041  # ВАШ ID (ЧИСЛОМ)
 COMMISSION = 0.05  # 5%
 
 # Настройка логирования
